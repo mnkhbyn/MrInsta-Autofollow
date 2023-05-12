@@ -1,6 +1,5 @@
 # MrInsta
-Automate the process of obtaining free Instagram followers using Mr. Insta
-- Full vlog [youtube](https://youtu.be/WQyZ7So0mrA) 
+Automate the process of obtaining free Instagram followers using Mr. Insta owner @byamb4
 
 ### Before running the script
 Make sure to follow these steps before running the script:
